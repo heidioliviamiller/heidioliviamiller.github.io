@@ -1,0 +1,1 @@
+Upload index.html, styles.css, and assets/ to your GitHub repo root. Enable GitHub Pages (main / root).
